@@ -249,3 +249,50 @@ p {
 .paragraph1 {
     margin-bottom: 15px;
 }
+
+.friends {
+    background: var(--color-light-l);
+}
+
+.container {
+    padding-top: 80px;
+    padding-top: 100px;
+}
+
+.friends__container {}
+
+.friends__content {}
+
+.title {}
+
+.friends__title {}
+
+.friends__slider {}
+
+.slider__controls {}
+
+.slider__control {}
+
+.slider__control-prev {}
+
+.slider__control-next {}
+
+.friends__list {}
+
+.friends__item {}
+
+.friend {}
+
+.friend__img-wrap {}
+
+.friend__img {}
+
+.friend__name {}
+
+.btn {}
+
+.friend__button {}
+
+.friends__btn-wrap {}
+
+.friends__btn {}
